@@ -1,0 +1,9 @@
+c:\users\pacman\documents\visual studio 2015\Projects\AutoLogon\AutoLogon\bin\Debug\AutoLogon.exe.config
+c:\users\pacman\documents\visual studio 2015\Projects\AutoLogon\AutoLogon\bin\Debug\AutoLogon.exe
+c:\users\pacman\documents\visual studio 2015\Projects\AutoLogon\AutoLogon\bin\Debug\AutoLogon.pdb
+c:\users\pacman\documents\visual studio 2015\Projects\AutoLogon\AutoLogon\obj\Debug\AutoLogon.csprojResolveAssemblyReference.cache
+c:\users\pacman\documents\visual studio 2015\Projects\AutoLogon\AutoLogon\obj\Debug\AutoLogon.Form1.resources
+c:\users\pacman\documents\visual studio 2015\Projects\AutoLogon\AutoLogon\obj\Debug\AutoLogon.Properties.Resources.resources
+c:\users\pacman\documents\visual studio 2015\Projects\AutoLogon\AutoLogon\obj\Debug\AutoLogon.csproj.GenerateResource.Cache
+c:\users\pacman\documents\visual studio 2015\Projects\AutoLogon\AutoLogon\obj\Debug\AutoLogon.exe
+c:\users\pacman\documents\visual studio 2015\Projects\AutoLogon\AutoLogon\obj\Debug\AutoLogon.pdb
